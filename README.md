@@ -25,7 +25,7 @@ Basic step to fund in a project using UI-
 
 Features: Decentralisation, Secured Payment Network, Better UI
 
-How to Use :: 
+How to Use using Command Line:: 
 1. Clone this repo in any folder
 2. Install required packages
 3. cd to the repo you cloned the project
