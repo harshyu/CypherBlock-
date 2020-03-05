@@ -24,3 +24,13 @@ Basic step to fund in a project using UI-
 
 
 Features: Decentralisation, Secured Payment Network, Better UI
+
+How to Use :: 
+1. Clone this repo in any folder
+2. Install required packages
+3. cd to the repo you cloned the project
+4. Run : npm run serve
+5. A page will open in browser 
+6. Start a Campaign or Donate in Any Campaign via MetaMask
+
+*right now running on Rinkby Test Network*
